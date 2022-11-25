@@ -1,1 +1,1 @@
-Flask
+print("Hello world")
